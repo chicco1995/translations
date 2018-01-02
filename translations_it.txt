@@ -993,7 +993,7 @@ it:  "",
 
 //Recipe ingredients
 en:  "Recipe",
-it:  "",
+it:  "Ricetta",
 en:  "Amarberry",
 it:  "",
 en:  "Azulberry",
